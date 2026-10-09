@@ -1,0 +1,6 @@
+qa/
+backups/
+node_modules/
+.env
+.env.*
+*.log

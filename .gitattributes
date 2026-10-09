@@ -1,0 +1,3 @@
+/v1/index.html -text
+*.md text eol=lf
+/index.html text eol=lf
